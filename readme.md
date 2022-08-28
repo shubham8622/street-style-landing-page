@@ -2,6 +2,9 @@
 
 * This project is a landing page which heavily relies on CSS Positions.
 
+## Check the live link.
+[Street style](https://street-style-delta.vercel.app/)
+
 ![badge](https://img.shields.io/badge/Vercel-Vercel-green)
 
 <hr/>
