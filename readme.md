@@ -1,4 +1,4 @@
-# Project 1 - Project 1 - Street Style Hero Section
+# Project 1 Street Style Hero Section
 
 * This project is a landing page which heavily relies on CSS Positions.
 
